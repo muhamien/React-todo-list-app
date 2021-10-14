@@ -20,8 +20,6 @@ const TodoCreate = (props) => {
         // console.log(title)
     }
 
-
-
     return (
         <form classname="todo-form" onSubmit={handleSubmit}>
             <input type="text" value={title} onChange={handleInput} placeholder="Add new todo list" />

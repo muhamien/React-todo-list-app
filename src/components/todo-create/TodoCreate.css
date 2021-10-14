@@ -2,3 +2,21 @@
     margin: 2rem;
     text-align: center;
 }
+
+input{
+    height: 35px;
+    width: 60%;
+    border-radius: 8px;
+    font-size: 24px;
+}
+
+button{
+    background-color: rgb(116, 17, 173);
+    border: 0px;
+    color: white;
+    height: 40px;
+    border-radius: 8px;
+    margin-left: 14px;
+    margin-top: -20px;
+    padding: 12px 14px 12px 14px;
+}
